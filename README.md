@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Liam 👋
 
-<!--
-**liamshahgholi/liamshahgholi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Python Backend Engineer  
+Django • DRF • PostgreSQL • Docker • REST APIs
 
-Here are some ideas to get you started:
+I design scalable backend systems and automation workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+- Python / Django / DRF
+- PostgreSQL
+- Docker
+- Redis (basic)
+- CI/CD
+- Linux / Nginx
+
+---
+
+## 📌 Highlight Projects
+- 🔹 Arzopool – Currency Exchange Backend API
+- 🔹 CookieCode Academy – Educational Platform Backend
+- 🔹 Ticket Booking System (Golang)
+
+---
+
+## 🌍 Open to opportunities in EU (Remote / Netherlands / Germany)
